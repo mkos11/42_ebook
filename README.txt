@@ -1,23 +1,15 @@
-📚 Welcome to the Source Archive for "Forty Two" 📚
+📚 **Welcome to the Source Archive for "Forty Two" by E. S. Hellman!**
 
-This is where the magic begins! You hold the source of the captivating ebook "Forty Two" by E. S. Hellman. 🌟
+This is the source archive for the ebook "Forty Two" by E. S. Hellman.
 
-🔨 How to Build the EPUB File
+To build the epub file from the source folder, follow the instructions from [this tutorial](https://sites.google.com/site/spontaneousderivation/an-epub-tutorial/creating-the-epub-file).
 
-To craft the EPUB file from this source folder, follow these instructions:
+You can also use the AppleScript by Dan Rodney based on these instructions, available [here](http://www.mobileread.com/forums/attachment.php?attachmentid=60233&d=1288118871).
 
-Use the EPUB Tutorial to guide you through the process.
+📖 **Licensing:**
+This book, along with all its constituent files, is distributed under the [Creative Commons Attribution-ShareAlike (Unported) 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/us/).
 
-Alternatively, you can try the handy AppleScript provided by danrodney, which simplifies the EPUB creation process.
+📌 **Attribution:**
+Wherever practical, please attribute using [this GitHub repository](https://github.com/eshellman/42_ebook) or the URL of a git branch of this repository.
 
-📖 Licensing Information
-
-This literary masterpiece and all its constituent files are distributed under the Creative Commons Attribution-ShareAlike (Unported) 3.0 License. 📜
-
-🔗 Attribution Matters
-
-Whenever possible, kindly provide attribution to the author, E. S. Hellman, and this repository on GitHub: https://github.com/eshellman/42_ebook.
-
-Get ready to dive into a world of words, wisdom, and wonder. Enjoy your reading adventure! 📖🌌
-
-Feel free to customize this interactive readme as needed for your audience or project.
+Feel free to explore the contents and contribute to this open project! 🚀🤓
